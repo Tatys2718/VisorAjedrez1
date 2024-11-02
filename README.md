@@ -14,7 +14,7 @@ Este proyecto es un visor de partidas de ajedrez desarrollado en Java. Permite v
 ## Instalación
 
 1. Clona este repositorio:
-   git clone https://github.com/usuario/visor-partidas-ajedrez.git
+   git clone https://github.com/Tatys2718/VisorAjedrez1.git
 2. Abre este proyecto en tu IDE preferido, yo utilice IntelliJ IDEA
 3. Compila y ejecuta el proyecto desde el IDE.
 
